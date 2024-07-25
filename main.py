@@ -22,7 +22,7 @@ for i in range(0,3):
     password = int(pwinput.pwinput(prompt ="Enter your PIN for accesing your bank account: ", mask="*"))
     os.system('clear')
     
-    if(password==2022):
+    if(password==1022):
       # print("\nYour password is:", password)
     
       while(option!=4):
