@@ -1,4 +1,3 @@
-Certainly! Here's an overview of the ATM machine system implemented in Python based on the code provided:
 
 ### ATM Machine System Overview
 
